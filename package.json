@@ -1,0 +1,11 @@
+{
+  "name": "lnp-web-app",
+  "version": "1.0.0",
+  "description": "a nodejs version of the LnP web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Lemanek",
+  "license": "ISC"
+}
